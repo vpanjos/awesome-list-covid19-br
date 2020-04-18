@@ -1,4 +1,4 @@
-# Repositórios com dados e informações sobre o COVID-19 com foco maior nos dados do Brasil
+# Lista de Repositórios com dados e informações sobre o COVID-19 com foco maior nos dados do Brasil
 
 
 [Grupo MAVE FioCruz](https://lsbastos.github.io/covid-19/#covid-19-por-estados)
