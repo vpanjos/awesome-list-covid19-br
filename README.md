@@ -7,7 +7,7 @@
 
 [Lagom Data](https://www.lagomdata.com.br/coronavirus)
 
-[Repositório no github de ciência de dados aplicadda à pandemia](https://github.com/3778/COVID-19)
+[Repositório no github de ciência de dados aplicada à pandemia](https://github.com/3778/COVID-19)
 
 [Dados sobre o corona vírus pelo Canal Peixe Babel](https://github.com/peixebabel/COVID-19)
 
